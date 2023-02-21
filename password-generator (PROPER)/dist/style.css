@@ -33,7 +33,7 @@ body {
     /* or 100% */
 }
 .title h1 span{
-    color: #4ADF86;
+    color: #4acedf;
 }
 .title p {
     color: #D5D4D8;
@@ -73,7 +73,7 @@ input{
     border-radius: 6px;
     border: none;
     color: white;
-    background: #10B981;
+    background: #4acedf;
     font-size: 1.6rem;
 }
 
@@ -92,7 +92,7 @@ input{
     border-radius: 0.6rem;
     margin-top: 4rem;
     text-align: center;
-    color: #55F991; 
+    color: #4acedf;
     padding: 1rem;
     width: 211px;
     height: auto;
